@@ -1,0 +1,6 @@
+akshare
+jupyter
+matplotlib
+numpy
+pandas
+yfinance
